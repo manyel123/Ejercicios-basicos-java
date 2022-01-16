@@ -1,2 +1,2 @@
 # java_basic_exs
-java code examples - netbeans
+basic java code examples - netbeans
